@@ -4,7 +4,7 @@ Tento projekt slouží k získávání výsledků voleb z webu [volby.cz](https:
 
 ---
 
-## 🚀 Instalace
+## Instalace
 
 1. Naklonujte nebo stáhněte tento repozitář.
 2. Ujistěte se, že máte nainstalovaný **Python 3.9+**.
